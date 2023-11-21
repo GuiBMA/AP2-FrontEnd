@@ -1,5 +1,4 @@
 import React from 'react';
-import App from './App';
 import EdifícioNatal from "./imagens/EdifícioNatal.png";
 import EdifícioEstrela from "./imagens/EdifícioEstrela.png";
 import EdifícioAlagoas from "./imagens/EdifícioAlagoas.png";
@@ -69,8 +68,7 @@ const NewsFeedItem = ({ item }) => {
         <button style={styles.button} onClick={() => console.log('Comentar')}>Comentar</button>
       </div>
       <p style={styles.descricao}>{item.descricao}</p>
-      <button style={styles.mapButton} onClick={App}>Localização</button>
-      {/* <button style={styles.mapButton} onClick={() => console.log('Mapa')}>Localização</button> */}
+      <button style={styles.mapButton} onClick={() => console.log('Mapa')}>Localização</button>
     </div>
   );
 };
