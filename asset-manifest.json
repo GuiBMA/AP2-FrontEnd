@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AP2-FrontEnd/static/css/main.1cadae89.css",
+    "main.js": "/AP2-FrontEnd/static/js/main.11457b06.js",
+    "static/media/EdifícioAlagoas.png": "/AP2-FrontEnd/static/media/EdifícioAlagoas.984b7351f24f3b1e1f1d.png",
+    "static/media/FonsecaeSilva.png": "/AP2-FrontEnd/static/media/FonsecaeSilva.96d86497962bef55f0c0.png",
+    "static/media/LesPalaisBotafogo.png": "/AP2-FrontEnd/static/media/LesPalaisBotafogo.6c446cd2fd9b0f087919.png",
+    "static/media/EdifícioEstrela.png": "/AP2-FrontEnd/static/media/EdifícioEstrela.8d4c2a37eb92399dc271.png",
+    "static/media/EdifícioNatal.png": "/AP2-FrontEnd/static/media/EdifícioNatal.80dd2d96977192d2986c.png",
+    "static/media/EdifícioUrca.png": "/AP2-FrontEnd/static/media/EdifícioUrca.3f4f5326a43855d1f9c7.png",
+    "static/media/CasaFrança-Brasil.png": "/AP2-FrontEnd/static/media/CasaFrança-Brasil.d0ea2a3277dd4c008c14.png",
+    "static/media/placeholder.png": "/AP2-FrontEnd/static/media/placeholder.64cdcb0ef97818161310.png",
+    "index.html": "/AP2-FrontEnd/index.html",
+    "main.1cadae89.css.map": "/AP2-FrontEnd/static/css/main.1cadae89.css.map",
+    "main.11457b06.js.map": "/AP2-FrontEnd/static/js/main.11457b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cadae89.css",
+    "static/js/main.11457b06.js"
+  ]
+}
